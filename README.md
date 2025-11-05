@@ -1,3 +1,4 @@
+[![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aholmes88)](https://github.com/aholmes/github-readme-stats)
 👋 Hi, I'm Aaron
 
 I'm a Computer Science student with a strong focus in cybersecurity, computer architecture, and hardware-level security. I enjoy building projects that bridge software and hardware—whether that's writing assembly, experimenting with secure boot processes, or creating tools that help others learn.
