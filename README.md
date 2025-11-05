@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aholmes88" alt="aholmes88" /></a> </p>
 
-- 🌱 I’m currently learning **More about Cybersecurity with a focus on Ethinical Hacking**
+- 🌱 I'm currently learning **ethinical hacking**
 
 - 📫 How to reach me **aaronholmes1104@gmail.com**
 
